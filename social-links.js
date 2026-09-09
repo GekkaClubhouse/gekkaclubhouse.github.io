@@ -4,14 +4,14 @@
 // Paste complete https:// URLs between the quotes. Empty entries stay unavailable.
 window.GEKKA_SOCIAL_LINKS = {
   "mia-risa": {
-    "instagram": "",
-    "x": "",
-    "tiktok": "",
-    "vip": ""
+    "instagram": "https://www.instagram.com/gekka_tf/",
+    "x": "https://x.com/BoobistR",
+    "tiktok": "https://www.tiktok.com/@mia_njm",
+    "vip": "https://www.fanvue.com/mia_njm"
   },
   "emma": {
     "instagram": "",
-    "vip": ""
+    "vip": "https://dfans.ai/emmaadachi"
   },
   "mayu": {
     "instagram": "",
